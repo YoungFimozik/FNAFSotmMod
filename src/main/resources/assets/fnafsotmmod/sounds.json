@@ -1,0 +1,34 @@
+{
+  "mimic_walk": {
+    "sounds": [
+      {
+        "name": "fnafsotmmod:mimic_walk",
+        "stream": false
+      }
+    ]
+  },
+  "mimic_attack": {
+    "sounds": [
+      {
+        "name": "fnafsotmmod:mimic_attack",
+        "stream": false
+      }
+    ]
+  },
+  "mimic_death": {
+    "sounds": [
+      {
+        "name": "fnafsotmmod:death_mimic",
+        "stream": false
+      }
+    ]
+  },
+  "mimic_hurt": {
+    "sounds": [
+      {
+        "name": "fnafsotmmod:punch_mimic",
+        "stream": false
+      }
+    ]
+  }
+}

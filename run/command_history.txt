@@ -1,0 +1,12 @@
+/kill @e[type=fnafsotmmod:mimic]
+/gamemode survival
+/gamemode creative
+/kill @e[type=fnafsotmmod:mimic]
+/kill @e[type=minecraft:wither]
+/kill @e[type=fnafsotmmod:mimic]
+/summon fnafsotmmod:mimic_pig
+/kill @e[type=fnafsotmmod:mimic]
+/summon fnafsotmmod:mimic_pig
+/kill cb18de4e-a7f9-4000-a1f7-458b08e9b6d3
+/kill 1dbcec59-dfa2-430c-a7c9-68a521d970eb
+/summon fnafsotmmod:mimic_cow

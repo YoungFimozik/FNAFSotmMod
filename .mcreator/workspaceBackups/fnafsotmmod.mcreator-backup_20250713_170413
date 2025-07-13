@@ -1,0 +1,109 @@
+{
+  "mod_elements": [
+    {
+      "name": "Mimic",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mimic",
+      "metadata": {
+        "files": [
+          "src/main/java/com/sonovarcoc/fnafsotmmod/client/renderer/MimicRenderer.java",
+          "src/main/resources/assets/fnafsotmmod/items/mimic_spawn_egg.json",
+          "src/main/java/com/sonovarcoc/fnafsotmmod/entity/MimicEntity.java"
+        ]
+      },
+      "path": "~/Mobs"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "mimic_walk",
+      "files": [
+        "mimic_walk"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "mimic_attack",
+      "files": [
+        "mimic_attack"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "mimic_death",
+      "files": [
+        "death_mimic"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "mimic_hurt",
+      "files": [
+        "punch_mimic"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.mimic_walk": "",
+      "subtitles.mimic_attack": "",
+      "subtitles.mimic_death": "",
+      "entity.fnafsotmmod.mimic": "Mimic",
+      "item.fnafsotmmod.mimic_spawn_egg": "Mimic Spawn Egg",
+      "subtitles.mimic_hurt": ""
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/assets/fnafsotmmod/sounds.json",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/init/FnafsotmmodModSounds.java",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/init/FnafsotmmodModTabs.java",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/FnafsotmmodMod.java",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/init/FnafsotmmodModItems.java",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/init/FnafsotmmodModEntities.java",
+      "src/main/java/com/sonovarcoc/fnafsotmmod/init/FnafsotmmodModEntityRenderers.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Mobs",
+        "children": [
+          {
+            "name": "MimicVariants",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "fnafsotmmod",
+    "modName": "Five Nights at Freddy\u0027s: The Secret of the Mimic Mod",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "com.sonovarcoc.fnafsotmmod"
+  },
+  "mcreatorVersion": 202500228610
+}
